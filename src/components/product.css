@@ -1,0 +1,7 @@
+.maindiv{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(228, 224, 224);
+    border-radius: 30px;
+    padding: 30px;
+}
